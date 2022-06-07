@@ -3,6 +3,7 @@ import { ThemeProvider } from 'styled-components';
 import { BrowserRouter as Router } from 'react-router-dom';
 import GlobalStyle from './styles/global';
 import light from './styles/themes/light';
+import "./App.less"
 // import dark from './styles/themes/dark';
 import AppProvider from './hooks';
 

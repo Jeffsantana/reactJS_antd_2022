@@ -9,6 +9,7 @@ import Profile from '../Profile';
 import api from '../../services/api';
 
 import logo from '../../assets/criatech_blue.png';
+// import logo from '../../assets/VinciLogo.jpeg';
 
 import { Container, Buttons } from './styles';
 import { useMenu } from '../../hooks/menu';

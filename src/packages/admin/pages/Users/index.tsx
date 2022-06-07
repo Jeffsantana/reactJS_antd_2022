@@ -204,7 +204,8 @@ const Users: React.FC = () => {
         <Tooltip title="Adicionar um novo usuário" placement="left">
           <Button
             type="primary"
-            style={{ width: '14%', background: '#001529' }}
+            // style={{ width: '14%', background: '#001529' }}
+            style={{ width: '14%', background: '#717171' }}
             onClick={() => push(`${defaultRoutes.admin}/user/new`)}
           >
             Adicionar
